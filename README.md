@@ -1,5 +1,6 @@
 
 <img width="1929" height="1216" alt="Screenshot 2025-11-06 194755" src="https://github.com/user-attachments/assets/6427abdf-ae17-4753-8465-288240991620" />
+[CSC170-main.zip](https://github.com/user-attachments/files/23482890/CSC170-main.zip)
 
 # CSC170
 Smashing dots is a game where you try to avoid the red big balls and get to the blue balloons to raise your health and continue the game
